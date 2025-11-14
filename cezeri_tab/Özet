@@ -1,0 +1,7 @@
+İTÜRO 2022 Lojistik Robot Sistemi: NAVIGATOR & GRIPPER
+Bu depo, İTÜRO 2022 Lojistik Kategorisi için tasarlanmış ve otonom görevleri gerçekleştiren iki robotlu, entegre bir lojistik sisteminin kodlarını içermektedir. Sistem, rota planlama, kablosuz iletişim ve hassas manipülasyon yeteneklerini birleştirir.
+
+🌟 Proje Özeti
+Lojistik Robot Sistemimiz, otonom depo içi taşıma görevini yerine getirmek üzere iki ana robottan oluşur: NAVIGATOR (Rota Çizici) ve GRIPPER (Kıskaçlı Taşıyıcı).
+
+Sistem, pist üzerindeki koordinatları okuyarak rotayı çizen ve bu bilgiyi kablosuz olarak taşıyıcı robota aktararak, belirlenen kutuyu alıp istenen noktaya bırakmayı hedefler.
